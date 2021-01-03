@@ -20,7 +20,7 @@ another example
 
     descmaintance:`<a:loading:766266540978733077> sorry am on Maintenancece Now please Be Patient<a:loading:766266540978733077> `,
     ```
-    thats English translations 
+    thats English translations 💠
     
     ```js
         invalidcmd: `أمر غير صحيح\`${Prefix} help\`لتري جميع الاوامر 😊`,
@@ -31,7 +31,7 @@ another example
 
     descmaintance:`<a:loading:766266540978733077> البوت حاليا بحالة صيانة من فضلك انتظر انتهاء الصيانة<a:loading:766266540978733077> `,
     ```
-    thats arabic translation
+    thats arabic translation💠
     you can see only value changed 
     
     this bot made by ❤️ with JavaScript
