@@ -34,6 +34,6 @@ another example
     thats arabic translation
     you can see only value changed 
     
-    thus bot made by ❤️ with JavaScript
+    this bot made by ❤️ with JavaScript
     fell free to add star ✨
     thanks for all ☺️
